@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern="strip-extends" type="PLAIN_TEXT" />
       <mapping pattern="ParallaxView" type="PLAIN_TEXT" />
       <mapping pattern=".wp-completion.bash" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
