@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
