@@ -5,6 +5,7 @@
       <mapping pattern="strip-extends" type="PLAIN_TEXT" />
       <mapping pattern="ParallaxView" type="PLAIN_TEXT" />
       <mapping pattern=".wp-completion.bash" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
