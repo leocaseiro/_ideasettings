@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Open Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -16,10 +17,10 @@
       <mask>*.xml</mask>
       <mask>*.hml</mask>
       <mask>*.ts, *.html</mask>
-      <mask>*.html</mask>
       <mask>*.css</mask>
       <mask>*.html,*.ts</mask>
       <mask>*.ts</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
