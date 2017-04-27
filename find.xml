@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -25,6 +25,10 @@
       <mask>*.html</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.sts</mask>
+      <mask>*.spets</mask>
+      <mask>*.spects</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
